@@ -1,0 +1,20 @@
+Note della patch (1.0):
+
+Novità
+- Nuovo personaggio giocabile: Sfidante!
+
+Miscellanei
+- Migliorata la formattazione dei messaggi
+- Ora appare una Noce Moscata in meno nella mappa
+- Ora viene mostrata la salute di tutti i mostri durante il turno del giocatore (a parte quella di un certo albero sospetto…)
+- Codice altamente snellito e ottimizzato
+- ENORMEMENTE migliorata l’organizzazione del codice (basta spaghetti!)
+
+Anabroccolo
+- Ora l’Anabroccolo insegue il giocatore per bene (non fa più giri strani quando il giocatore è nella cella sopra)
+- Nerf: l’attacco dell’Anabroccolo non cresce più ogni turno
+- Buff: l’attacco dell’Anabroccolo cresce di 2 quando diventa adulto
+
+Cacciatore
+- L’abilità del Cacciatore non si chiama più “Abilità di sopravvivenza” ma solo “Sopravvivenza”
+- Buff: il Cacciatore ora ha 16 di salute massima (è più facile ottenere l’attacco extra dall’abilità Sopravvivenza)
